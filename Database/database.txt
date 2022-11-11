@@ -1,0 +1,26 @@
+Database name: 2big_wrs_db
+Table name: user
+Attributes:
+user_id
+first_name
+mid_name
+last_name
+user_name
+address
+contact_num
+email
+password
+con_pass
+code
+status
+date
+*TABLE NAME: employeerecords*
+*ATTRIBUTES*
+employee_id
+fullname
+address
+contactno
+Role
+dateHired
+username
+password
